@@ -33,9 +33,7 @@ A simple web application which allows user to calculate desired tip percentage b
 ## GIF Walkthrough
 
 Markdown code to embed a GIF in your README file:
-```
-![Walkthrough GIF](path/to/gif.gif)
-```
+![](CSC511Project1.gif)
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
