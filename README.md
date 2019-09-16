@@ -31,12 +31,9 @@ A simple web application which allows user to calculate desired tip percentage b
  
 
 ## GIF Walkthrough
-
-Markdown code to embed a GIF in your README file:
 ![](CSC511Project1.gif)
-
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
 ## Notes & shoutouts
-
-Tell us more about your journey here or resources used. e.g. "Spent some additional time researching and playing with color options via CSS, and looking at MDN to understand localStorage. Shoutout to Luke for helping me with that controller issue!"
+-For the majority of the project, outside resources were used such as code from: https://guide.freecodecamp.org/tools/calculators/tip-calculator/. In addition, I recieved a ton of assistance from Professor Shane and classmate Neftali. 
+-The beginning encounter with web frameworks, ember.js, and github was challenging at first. The first project, TipCalculator, was a great way to start learning all three systems and through TipCalculator, I will be leverage methods and ideas for future projects. 
