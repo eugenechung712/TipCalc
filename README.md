@@ -35,5 +35,6 @@ A simple web application which allows user to calculate desired tip percentage b
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
 ## Notes & shoutouts
--For the majority of the project, outside resources were used such as code from: https://guide.freecodecamp.org/tools/calculators/tip-calculator/. In addition, I recieved a ton of assistance from Professor Shane and classmate Neftali. 
--The beginning encounter with web frameworks, ember.js, and github was challenging at first. The first project, TipCalculator, was a great way to start learning all three systems and through TipCalculator, I will be leverage methods and ideas for future projects. 
+For the majority of the project, outside resources were used such as code from: https://guide.freecodecamp.org/tools/calculators/tip-calculator/. In addition, I recieved a ton of assistance from Professor Shane and classmate Neftali. 
+
+The beginning encounter with web frameworks, ember.js, and github was challenging at first. This first project, TipCalculator, was a great way to start learning all three systems and through TipCalculator, I will be leverage methods and ideas for future projects. 
