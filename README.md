@@ -2,12 +2,13 @@
 
 Author: Eugene chung
 
-A simple web application which allows user to search for a movie title based upon an existing movie API. The search then returns a list of movies which the user can then select. This in turn returns a detailed description of the movie selected. 
+A simple web application which allows user to calculate desired tip percentage based on price input.
 
 ## Time spent
- * Tutorials, research: around 10 hours
- * Coding required stories: 2 hours
- * Optional and extras: 2 hours
+ * Tutorials, research: 4 hours
+ * Coding required stories: 10 minutes
+ * Optional and extras: 30 minutes
+ 
 ## User stories
 
 ### Required
